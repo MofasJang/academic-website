@@ -275,8 +275,8 @@ plugins_js  = []
   #   3: OpenStreetMap (Mapbox)
   latitude = 34.1264
   longitude = 108.8291
-  engine = 2
-  api_key = ""
+  engine = 1
+  api_key = "https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap"
   zoom = 15
 
 ############################
